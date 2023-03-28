@@ -1,0 +1,11 @@
+[
+    {
+        "nombre": "Argentina",
+        "provincias": ["Buenos Aires", "Córdoba", "Santa Fe", "Mendoza", "Entre Ríos", "La Pampa", "Neuquén", "Chubut", "Tierra del Fuego"]
+    },
+    {
+        "nombre": "México",
+        "provincias": ["Ciudad de México", "Estado de México", "Jalisco", "Nuevo León", "Puebla", "Veracruz", "Querétaro", "Chihuahua", "Baja California"]
+    }
+
+]
